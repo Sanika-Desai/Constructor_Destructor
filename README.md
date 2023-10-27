@@ -38,6 +38,7 @@ scaler();
 ### ALGORITHM
 
 Default constructor
+
 1.Include the necessary header file for input and output operations, i.e., .
 
 2.Declare the use of the std namespace to avoid having to prepend std:: before standard library objects like cout and cin.
